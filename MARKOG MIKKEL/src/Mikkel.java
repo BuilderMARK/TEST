@@ -4,5 +4,8 @@ public class Mikkel
   {
     System.out.println("hej smukke");
     System.out.println("Han snaver mig i søvne");
+
+
+
   }
 }
